@@ -1,0 +1,16 @@
+{
+  "name": "smart-shop",
+  "version": "1.0.0",
+  "description": "المحل الذكي - تطبيق إدارة محل",
+  "scripts": {
+    "start": "echo \"لا يوجد سيرفر مطلوب - المحتوى في مجلد www\""
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/filesystem": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0"
+  }
+}

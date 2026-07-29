@@ -1,0 +1,9 @@
+{
+  "appId": "com.smartshop.app",
+  "appName": "المحل الذكي",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
